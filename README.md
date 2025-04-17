@@ -8,4 +8,5 @@
 
 ```python
 print('Hello world!')
+print('The good day!')
 ```
